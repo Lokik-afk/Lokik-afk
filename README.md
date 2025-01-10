@@ -24,8 +24,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://uipath.com" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/uw/349832/png/uipath-logo.png" alt="UiPath" width="60" height="40"/> </a>
-  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://techairgroup.com/wp-content/uploads/2021/02/microsoft-power-automate-logo.jpg" alt="Power Automate" width="60" height="40"/> </a>
+  <a href="https://uipath.com" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/uw/349832/png/uipath-logo.png" alt="UiPath" width="80" height="40"/> </a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://techairgroup.com/wp-content/uploads/2021/02/microsoft-power-automate-logo.jpg" alt="Power Automate" width="80" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
