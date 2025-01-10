@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **UiPath, MERN, and Automation Solutions**
 
-- 📫 How to reach me: **lokik.creates@gmail.com**
+- 📫 How to reach me: **lokik.creates@outlook.com**
 
 - ⚡ Fun fact: **I automate my life to make time for coding and gaming!**
 
