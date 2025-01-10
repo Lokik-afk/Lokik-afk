@@ -1,25 +1,43 @@
 <h1 align="center">Hi 👋, I'm Lokik Gupta</h1>
-<h3 align="center">A passionate Automation developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207…”>
+<h3 align="center">A passionate RPA Developer and Backend Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **nothing**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b25d78b3f5a0b05497f3a.gif">
 
-- 🌱 I’m currently learning **cicd**
+- 🔭 I’m currently working on **Automation and Backend Development**
 
-- 💬 Ask me about **mern automation unit testing**
+- 🌱 I’m currently learning **CI/CD and advanced RPA technologies**
 
-- 📫 How to reach me **lokik.creates@outlook.com**
+- 💬 Ask me about **UiPath, MERN, and Automation Solutions**
 
-- ⚡ Fun fact **you are a dumbass**
+- 📫 How to reach me: **lokik.creates@gmail.com**
+
+- ⚡ Fun fact: **I automate my life to make time for coding and gaming!**
+
+---
+
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><b>News Scraper and Email Automation Bot:</b> An RPA bot built with UiPath to scrape news, validate data, and send topic-specific updates via email with robust error handling.</li>
+  <li><b>Invoice Processing and Data Entry Automation:</b> A UiPath bot using OCR and machine learning for invoice data extraction, validation, and ERP integration, ensuring efficiency and error handling.</li>
+</ul>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://uipath.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/UiPath_2019_logo.svg" alt="UiPath" width="40" height="40"/> </a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Power_Automate_2020_logo.svg" alt="Power Automate" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hello" height="30" width="40" /></a>
-<a href="https://instagram.com/hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello" height="30" width="40" /></a>
-<a href="https://medium.com/hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hello" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lokik-gupta-a22290217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokik-gupta" height="30" width="40" /></a>
+  <a href="https://github.com/Lokik-afk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lokik-afk" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lokik-afk&theme=dark" alt="Lokik's streak stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hello&" alt="hello" /></p>
+---
+
+<h3 align="center">"Simplifying complexity through automation"</h3>
