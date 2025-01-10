@@ -22,7 +22,7 @@
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; gap: 40px; flex-wrap: wrap;">
+<p align="left" style="display: flex; gap: 100px; flex-wrap: wrap;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://uipath.com" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/uw/349832/png/uipath-logo.png" alt="UiPath" width="80" height="40"/> </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://techairgroup.com/wp-content/uploads/2021/02/microsoft-power-automate-logo.jpg" alt="Power Automate" width="80" height="40"/> </a>
