@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://uipath.com" target="_blank" rel="noreferrer"> <img src="https://cdn.uipath.com/branding/logos/logo-icon.png" alt="UiPath" width="40" height="40"/> </a>
+  <a href="https://uipath.com" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/uw/349832/png/uipath-logo.png" alt="UiPath" width="40" height="40"/> </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Power_Automate_logo.svg" alt="Power Automate" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
