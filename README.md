@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokik Gupta</h1>
 <h3 align="center">A passionate RPA Developer and Backend Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5290005-Nerd-checks-the-email/attachments/10787038?mode=media">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1736534562~exp=1736538162~hmac=a65090368dc2a1c616ed4c010832db900ca9684c981cd52fb7986ff96840a4ab&w=826">
 
 - 🔭 I’m currently working on **Automation and Backend Development**
 
