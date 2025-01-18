@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokik Gupta</h1>
+<h1 align="center">Howdy Fellas !</h1>
 <h3 align="center">A passionate RPA Developer and Backend Enthusiast from India</h3>
 
 <img align="right" alt="Coding" height = "200" width="200" src="https://cdn.iconscout.com/icon/free/png-512/free-programmer-icon-download-in-svg-png-gif-file-formats--professions-and-jobs-profession-coding-programing-occupation-avatars-pack-people-icons-5338499.png?f=webp&w=256">
